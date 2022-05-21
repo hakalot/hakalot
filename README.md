@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hakalot
 - 👀 I’m interested in becoming a Network engineer or Python programmer
-- 🌱 I’m currently learning Python and networking.
-- 💞️ I’m looking to collaborate on Python and networking activities.
+- 🌱 I’m currently learning Python and networking
+- 💞️ I’m looking to collaborate on Python and networking activities
 - 📫 How to reach me- mailspacenet777@gmail.com
 
 <!---
