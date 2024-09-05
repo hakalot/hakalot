@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakalot
-- 👀 I’m interested in becoming a Web Developer, Network engineer, or Python programmer
+- 👀 I’m interested in becoming a Web Developer, Network engineer, and Python programmer
 - 🌱 I’m currently learning Web Developing, Python and Networking
 - 💞️ I’m looking to collaborate on Web Developing and Networking activities
 - 📫 How to reach me- mailspacenet777@gmail.com
